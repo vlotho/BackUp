@@ -1,12 +1,6 @@
 # -*- coding: utf-8 -*-
 
 from configparser import ConfigParser
-import tarfile
-import os
-import platform
-import subprocess
-import crontab
-
 
 # on crée un objet config parser et on lit le paramétrage .ini
 config = ConfigParser()  
