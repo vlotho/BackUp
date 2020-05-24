@@ -6,5 +6,3 @@ ces paramètres son :
 - Le mode de sauvegarde (en compression ou en copie)
 - La frequence de la sauvegarde
 - Et la rotation de la sauvegarde
-
-Le script s'execute toutes les 5 minutes via une tache cron sous linux, ou via le plannificateur de taches de windows.
