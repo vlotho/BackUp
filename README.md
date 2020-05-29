@@ -14,19 +14,19 @@ Il est entièrement paramétrable via un fichier paramétrage.ini et permet de f
 
 ## Exemple de fichier ini:
 
-[parametre]
-NomDeLaSauvegarde : Sauvegarde1
-CheminDuContenuASauvegarder : /chemin/du/repertoire/à/sauvegarder
-RepertoireDeLaSauvegarde : /repertoire/final/de/la/sauvegarde1
-CompressionOuCopie : Compression
-Rotation : 2
+[parametre]  
+NomDeLaSauvegarde : Sauvegarde1  
+CheminDuContenuASauvegarder : /chemin/du/repertoire/à/sauvegarder  
+RepertoireDeLaSauvegarde : /repertoire/final/de/la/sauvegarde1  
+CompressionOuCopie : Compression  
+Rotation : 2  
 
-[parametre-2]
-NomDeLaSauvegarde : Sauvegarde2
-CheminDuContenuASauvegarder : /chemin/vers/le/deuxieme/repertoire/à/sauvegarder
-RepertoireDeLaSauvegarde : /repertoire/final/de/la/sauvegarde2
-CompressionOuCopie : Copie
-Rotation : 3
+[parametre-2]  
+NomDeLaSauvegarde : Sauvegarde2  
+CheminDuContenuASauvegarder : /chemin/vers/le/deuxieme/repertoire/à/sauvegarder  
+RepertoireDeLaSauvegarde : /repertoire/final/de/la/sauvegarde2  
+CompressionOuCopie : Copie  
+Rotation : 3  
 
 Le fichier paramétrage.ini se compose d'autant de section que l'on veut de sauvegarde.
 
